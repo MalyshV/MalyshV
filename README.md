@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MalyshV&&count_private=true&theme=)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MalyshV&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
