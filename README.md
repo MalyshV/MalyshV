@@ -4,7 +4,7 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalyshV&layout=compact" /><br />
 
-## 
+<br />
 
 ## Skills:
 
@@ -18,10 +18,3 @@
 
 
 [![codewars](https://www.codewars.com/users/MalyshV/badges/micro)](https://www.codewars.com/users/MalyshV)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalyshV&theme=)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalyshV&theme=)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalyshV&theme=)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MalyshV&theme=)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalyshV&theme=)
-
