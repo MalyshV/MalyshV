@@ -2,9 +2,9 @@
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MalyshV&&count_private=true&theme=&show_icons=true" />
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalyshV&layout=compact" /><br />
+<img align="left" width="47%" margin-bottom="50px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MalyshV&layout=compact" /><br />
 
-__
+
 
 ## Skills:
 
