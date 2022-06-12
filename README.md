@@ -19,9 +19,9 @@
 
 [![codewars](https://www.codewars.com/users/MalyshV/badges/micro)](https://www.codewars.com/users/MalyshV)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalyshV&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalyshV&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalyshV&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MalyshV&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalyshV&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MalyshV&theme=)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MalyshV&theme=)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MalyshV&theme=)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MalyshV&theme=)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MalyshV&theme=)
 
