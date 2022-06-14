@@ -1,4 +1,4 @@
-# Hi there, I'm Veronika! ![image](https://user-images.githubusercontent.com/79593878/173700890-cf7aa221-6622-41c3-aab3-1beedab7f413.png)
+# Hi there, I'm Veronika!👋
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=MalyshV&theme=&show_icons=true" />
 
